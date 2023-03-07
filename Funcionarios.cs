@@ -6,7 +6,7 @@
 
         public int idade { get; set; }
 
-        public double salario { get; set; }
+        public int salario { get; set; }
 
         public string departamento { get; set; }
 
